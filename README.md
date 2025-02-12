@@ -2,6 +2,8 @@
 
 This project focuses on analyzing, visualizing, and improving the operational workflow of **FreakEats**, an online food delivery platform. Using tools like Lucidchart, we’ll map out the existing process, identify pain points, and propose actionable improvements to enhance efficiency and user experience.
 
+Process-flow-for-food-delivery-Platform.png
+
 ---
 
 ## 📌 Project Overview
