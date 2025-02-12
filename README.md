@@ -1,7 +1,3 @@
-Here’s a revised version of the README that feels more like a real-world project:
-
----
-
 # Improving Business Processes: FreakEats Case Study
 
 This project focuses on analyzing, visualizing, and improving the operational workflow of **FreakEats**, an online food delivery platform. Using tools like Lucidchart, we’ll map out the existing process, identify pain points, and propose actionable improvements to enhance efficiency and user experience.
@@ -91,7 +87,3 @@ This project demonstrates the value of process visualization and analysis in sol
 ## 🤝 Let's Collaborate!
 
 Have thoughts, suggestions, or want to implement similar process improvements in your own organization? Let’s connect!
-
----
-
-This version feels practical, aligns with real-world problem-solving, and emphasizes collaboration and impact. Let me know if you’d like further tweaks!
